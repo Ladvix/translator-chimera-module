@@ -1,0 +1,10 @@
+{
+    "main_title" : "⁉️ This module using API Google translate",
+    "commands_title" : "🪄 Available commands:",
+    "commands" : {
+
+        "translate {language} {message}" : {"comment" : "Translating your message"}
+
+    }
+
+}
